@@ -59,8 +59,3 @@ h6 {
   margin: 15px;
   font-size: 14px;
 }
-
-.btn-branding:hover {
-  color: red;
-  backdrop-filter: blur(5px);
-}
