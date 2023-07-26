@@ -50,13 +50,17 @@ h6 {
   color: var(--primary-color);
 }
 
-.btn-branding {
-  background-color: var(--primary-color);
-  color: var(--secondary-color);
-  font-family: var(--default-font-family);
-  border-radius: 50px;
+.btn {
   padding: 15px 45px;
-  margin: 15px;
+  font-family: var(--default-font-family);
   font-size: 14px;
+  --bs-btn-bg: white;
+  --bs-btn-border-radius: 50px;
+  color: var(--secondary-color); 
+}
+
+.btn-branding {
+  margin: 15px;
+  
 }
 
