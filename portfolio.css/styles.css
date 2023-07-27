@@ -56,6 +56,10 @@ h6 {
   font-weight: 500;
 }
 
+.navbar-toggler {
+    background-color: #dee2e6;
+}
+
 .hero {
   text-align: center;
   background-image: url(/images/bg.png);
