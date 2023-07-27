@@ -21,8 +21,7 @@ header {
     left: 0;
     width: 100%;
     background-color: #202020;
-    color: var(--primary-color);
-    padding: 10%;
+    padding: 0;
 }
 
 h1,
@@ -44,12 +43,14 @@ h6 {
     margin-left: 90px;
     font-size: 24px;
     font-weight: bold;
+    color: var(--primary-color);
 }
 
 .navbar-nav {
     margin-right: 90px;
     font-size: 16px;
     font-weight: 500;
+    color: var(--primary-color);
 }
 
 .hero {
