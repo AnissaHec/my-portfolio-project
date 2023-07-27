@@ -46,7 +46,7 @@ h6 {
     color: var(--primary-color)!important;
 }
 
-.navbar-nav {
+.nav-link {
     margin-right: 90px;
     font-size: 16px;
     font-weight: 500;
