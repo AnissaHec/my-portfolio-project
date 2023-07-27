@@ -110,3 +110,40 @@ h6 {
 .row {
     padding-bottom: 34px;
 }
+
+@media (max-width: 994px)  {
+ .container-fluid {
+  justify-content: center;
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+hero {
+  padding: 286px 40px;
+}
+
+.hero h2 {
+  font-size: 20px;
+}
+
+.hero h1 {
+  font-size: 40px;
+}
+
+.hero p {
+  display: none;
+}
+
+.btn-branding {
+  padding: 14px 39px;
+  margin: 131px;
+}
+
+.row {
+  padding-bottom: o;
+}
+}
+
+
