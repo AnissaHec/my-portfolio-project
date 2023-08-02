@@ -149,8 +149,7 @@ hero {
 }
 
 .about-section-image {
-  display: flex;
-  justify-content: start;
+  text-align: left;
 }
 
 .about-page-h2, .about-page-h3 {
