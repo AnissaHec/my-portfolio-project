@@ -158,3 +158,19 @@ hero {
   font-weight: bold;
   color: var(--accent-color);
 }
+
+.about-section-content h1 {
+  color: var(--primary-color: #ffff) !important;
+}
+
+.about-section-content p {
+  color: var(--primary-color: #ffff) !important;
+}
+
+.socials-icon {
+  color: var(--primary-color: #ffff) !important;
+}
+
+.my-camera-info {
+  color: var(--primary-color: #ffff) !important;
+}
