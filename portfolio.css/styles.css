@@ -149,7 +149,8 @@ hero {
 }
 
 .about-section-image {
-  text-align: left;
+  margin-top: -34px;
+  margin-left: -300px;
 }
 
 .about-page-h2, .about-page-h3 {
