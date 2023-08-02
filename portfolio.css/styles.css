@@ -2,6 +2,7 @@
   --primary-color: #ffff;
   --secondary-color: #272142;
   --bg-color: #1b1b1b;
+  --accent-color: #f65282;
   --heading-font-family: "Roboto", sans-serif;
   --default-font-family: "Montserrat", sans-serif;
 }
@@ -147,4 +148,13 @@ hero {
 }
 }
 
+.about-section-image {
+  margin-left: -160px;
+  margin-top: -34px;
+}
 
+.about-page-h2, .about-page-h3 {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--accent-color);
+}
