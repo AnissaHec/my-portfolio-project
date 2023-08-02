@@ -149,8 +149,8 @@ hero {
 }
 
 .about-section-image {
-  margin-left: -160px !important;
-  margin-top: -34px !important;
+  display: flex;
+  justify-content: start;
 }
 
 .about-page-h2, .about-page-h3 {
