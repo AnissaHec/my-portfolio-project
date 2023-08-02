@@ -160,17 +160,17 @@ hero {
 }
 
 .about-section-content h1 {
-  color: var(--primary-color: #ffff) !important;
+  color: var(--primary-color) !important;
 }
 
 .about-section-content p {
-  color: var(--primary-color: #ffff) !important;
+  color: var(--primary-color) !important;
 }
 
 .socials-icon {
-  color: var(--primary-color: #ffff) !important;
+  color: var(--primary-color) !important;
 }
 
 .my-camera-info {
-  color: var(--primary-color: #ffff) !important;
+  color: var(--primary-color) !important;
 }
