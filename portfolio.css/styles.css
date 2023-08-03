@@ -95,6 +95,10 @@ h6 {
   margin-bottom: 50px;
 }
 
+.contact-content-section {
+  margin-bottom: 80px !important;
+}
+
 .hero-heading h3 {
   font-size: 14px;
   font-weight: bold;
