@@ -177,4 +177,6 @@ hero {
   color: var(--primary-color) !important;
   border-radius: 4%;
   background: #2d2727;
+  padding: 24px 20px;
+  margin-right: 221px;
 }
