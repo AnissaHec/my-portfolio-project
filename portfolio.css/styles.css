@@ -85,6 +85,10 @@ h6 {
   color: var(--primary-color);
 }
 
+.hero-heading h1 {
+  text-align: center;
+}
+
 .hero p {
   font-family: var(--heading-font-family);
   font-weight: 400px;
