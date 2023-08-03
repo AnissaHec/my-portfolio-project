@@ -32,7 +32,8 @@ h4,
 h5,
 h6 {
   font-family: var(--heading-font-family);
-  font-weight: 700px;
+  font-weight: bold;
+  letter-spacing: .2rem;
 }
 
 .navbar {
@@ -87,6 +88,8 @@ h6 {
 
 .hero-heading h1 {
   text-align: center;
+  margin-top: 73px;
+  margin-bottom: 50px;
 }
 
 .hero p {
