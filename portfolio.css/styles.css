@@ -171,6 +171,7 @@ hero {
 
 .fa-brands {
   color: var(--primary-color) !important;
+  margin: 5px;
 }
 
 .my-camera-info {
