@@ -161,10 +161,12 @@ hero {
 
 .about-section-content h1 {
   color: var(--primary-color) !important;
+  font-size: 64px;
 }
 
 .about-section-content p {
   color: var(--primary-color) !important;
+  font-size: 18px;
 }
 
 .fa-brands {
@@ -173,4 +175,6 @@ hero {
 
 .my-camera-info {
   color: var(--primary-color) !important;
+  border-radius: 4%;
+  background: #2d2727;
 }
