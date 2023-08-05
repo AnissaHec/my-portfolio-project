@@ -226,6 +226,10 @@ a:visited {
   color: white;
 }
 
+.contact-page-footer-container {
+  margin-top: 400px;
+}
+
 .footer-content {
   padding-bottom: 25px;
   padding-top: 25px;
