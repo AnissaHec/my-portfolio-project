@@ -234,3 +234,7 @@ a:visited {
   padding-bottom: 25px;
   padding-top: 25px;
 }
+
+.fa-square-github {
+  color: var(--accent-color);
+}
