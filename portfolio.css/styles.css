@@ -235,6 +235,6 @@ a:visited {
   padding-top: 25px;
 }
 
-.fa-square-github {
+.fa-square-github:hover {
   color: var(--accent-color) !important;
 }
